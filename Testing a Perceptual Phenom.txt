@@ -1,0 +1,24 @@
+Central Tendency Definition
+
+https://statistics.laerd.com/statistical-guides/measures-central-tendency-mean-mode-median.php
+
+Independent/Dependent Variable & Hypothesis Definition:
+Udacity Course 4
+
+T-Test comparing 2 sample means
+Udacity Course 4: Confidence Intervals/Traditional confidence intervals
+
+https://www.statsmodels.org/dev/generated/statsmodels.stats.weightstats.CompareMeans.tconfint_diff.html
+
+Review/Feedback
+
+Q2:
+https://stackoverflow.com/questions/13208286/how-to-write-latex-in-ipython-notebook
+https://en.wikipedia.org/wiki/List_of_mathematical_symbols
+
+Q5:
+https://towardsdatascience.com/inferential-statistics-series-t-test-using-numpy-2718f8f9bf2f
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_rel.html
+https://machinelearningmastery.com/critical-values-for-statistical-hypothesis-testing/
+https://www.programcreek.com/python/example/94816/scipy.stats.t.ppf
+https://study.com/academy/lesson/degrees-of-freedom-definition-formula-example.html
